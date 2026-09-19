@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState } from 'react';
-import { ArrowUpRight, X, Clock, Calendar, Tag } from 'lucide-react';
+import { ArrowUpRight, X, Clock, Calendar } from 'lucide-react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
 import type { ArticleItem } from '../data/portfolioData';
 
